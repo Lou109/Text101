@@ -358,8 +358,7 @@ MonoBehaviour:
     Placeholder story text, Placeholder story text, Placeholder story text, Placeholder
     story text, Placeholder story text, Placeholder story text, Placeholder story
     text, Placeholder story text, Placeholder story text, Placeholder story text,
-    Placeholder story text, Placeholder story text, Placeholder story text, Placeholder
-    story text, '
+    Placeholder story text, '
 --- !u!222 &623758536
 CanvasRenderer:
   m_ObjectHideFlags: 0
