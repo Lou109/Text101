@@ -23,8 +23,12 @@ MonoBehaviour:
 
 
     1.
-    Down the long deserted road with lots of fields and rather unpleasant looking
+    Walk down the long deserted road with lots of fields and rather unpleasant looking
     farm animals.
 
 
-    2. Take the public foot path into a misty fog of toxic gas.'
+    2. Take the public foot path into a misty fog of poisonous
+    gas.'
+  nextStates:
+  - {fileID: 11400000, guid: 11d75b60b1243424e8e65100a8e69c19, type: 2}
+  - {fileID: 11400000, guid: aa798a1829164438a96781dacab045c7, type: 2}
