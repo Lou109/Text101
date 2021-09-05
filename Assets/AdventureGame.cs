@@ -10,7 +10,7 @@ public class AdventureGame : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        textComponent.text = ("I am added programmatically");
+        textComponent.text = ("Welcome to your worst nightmare ! mwahahahaha");
     }
 
     // Update is called once per frame
