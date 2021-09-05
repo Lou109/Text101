@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'You have just been assigned for Zombie Zone mission certain death.
+
+    All
+    ready and equipt with gasmask, toxic biochemical protective clothing and a g420009
+    machine gun.
+
+
+    You need to decide which path to take in order to find the
+    Laboratory.
+
+    Which way should i go ?
+
+
+    1. Down the long deserted road
+    with lots of fields and rather unpleasant looking farm animals.
+
+    2. Take
+    the public foot path into a misty fog of toxic gas.'

@@ -12,10 +12,4 @@ public class AdventureGame : MonoBehaviour
     {
         textComponent.text = ("Welcome to your worst nightmare ! mwahahahaha");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
