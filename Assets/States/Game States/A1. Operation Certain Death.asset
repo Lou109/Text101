@@ -18,7 +18,7 @@ MonoBehaviour:
     aware that there have been strange terrifying happenings within a 5 mile radius
     from the vicinity. Including suspected deaths caused by Zombies. \n\nA group
     of highly trained police officers went there to inspect the area a couple of
-    weeks ago but never returned.\n\nPush down 1 on keypad to continue and good luck
-    !"
+    weeks ago but never returned.\n\nPush down \"1\" on keypad to continue and good
+    luck !"
   nextStates:
   - {fileID: 11400000, guid: e4d4c363466b04ce0a259715c69f8ab8, type: 2}
