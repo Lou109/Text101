@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A2. Choose your path
+  m_EditorClassIdentifier: 
+  storyText: "All ready equipt with gas mask, radio active protective clothing and
+    MKA 13 Shotgun. Bullets especially designed to protect you from any undead threatening
+    activity.\n\nChoose your path wisely\n\n1. Across the fields \n\nor\n\n2. Use
+    the public footpath"
+  nextStates:
+  - {fileID: 11400000, guid: 719cd51952b9246e5b5b35d970d0c6b1, type: 2}
+  - {fileID: 11400000, guid: 535d36154419f49338e899a888ca9485, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A1. Operation Certain Death
+  m_EditorClassIdentifier: 
+  storyText: "We have a very important mission for you private !\n\nAn extremely
+    dangerous viral substance has leaked from a bio chemical radio active power plant.
+    It is your job to find the laboratory from where the accident may of occurred.\n\nBe
+    aware that there have been strange terrifying happenings within a 5 mile radius
+    from the vicinity. Including suspected deaths caused by Zombies. \n\nA group
+    of highly trained police officers went there to inspect the area a couple of
+    weeks ago but never returned.\n\nPush down 1 on keypad to continue and good luck
+    !"
+  nextStates:
+  - {fileID: 11400000, guid: e4d4c363466b04ce0a259715c69f8ab8, type: 2}

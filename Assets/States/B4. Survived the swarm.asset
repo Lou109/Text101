@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: B4. Survived the swarm
+  m_EditorClassIdentifier: 
+  storyText: 'Thanks to your specialist training. You manage 5 mins underwater which
+    was just enough time for the Zombie wasps to go.
+
+
+    Which way do you go now
+    ?
+
+
+    1. Across the bridge to the corn field which leads to the farm
+
+
+    2.
+    Take the pathway to the right that goes along the river'
+  nextStates:
+  - {fileID: 11400000, guid: ab04813da12ab4a4a9ec64eb9b8f2d9f, type: 2}
+  - {fileID: 11400000, guid: 85316c3351a764576aaa97fda9ca7262, type: 2}

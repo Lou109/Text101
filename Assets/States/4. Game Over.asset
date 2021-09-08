@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
-  m_Name: Long Road
+  m_Name: 4. Game Over
   m_EditorClassIdentifier: 
-  storyText: 'I am walking down this road
-
-'
+  storyText: "Running across a bridge is not going to save you from a swarm of zombie
+    wasps. \nThey sting you to death then eat your flesh.  All that remains of you
+    is a gruesome corpse. Soon you will become one of the undead.\n\nBetter luck
+    next time\n\n1 Start mission again\n\n2 Quit\n\n"
   nextStates:
-  - {fileID: 11400000, guid: aa798a1829164438a96781dacab045c7, type: 2}
   - {fileID: 11400000, guid: f208ff537756f4cc6a2999f848415209, type: 2}

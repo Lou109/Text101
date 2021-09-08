@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A7. Aim for the head
+  m_EditorClassIdentifier: 
+  storyText: 'Your intense Zombie extermination training program has obviously paid
+    off. Always aim for the head.
+
+
+    Well done !
+
+
+    What do you want to do
+    now ?
+
+
+    1. Walk through the corn field towards the farm
+
+
+    2. Head towards
+    the river   '
+  nextStates:
+  - {fileID: 11400000, guid: ab04813da12ab4a4a9ec64eb9b8f2d9f, type: 2}
+  - {fileID: 11400000, guid: ae3d71347d0234306b103cfd6eea6ac7, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C6. Last Survivor
+  m_EditorClassIdentifier: 
+  storyText: 'You enter the larger building. Looks like some kind of warehouse with
+    lots boxes and containers.
+
+
+    You notice a man lying on the ground. "Help
+    me ! help me" he cries. The man is obviously seriously wounded.
+
+
+    You ask
+    him
+
+
+    1. What happened ?
+
+
+    2. Where is the laboratory ?'
+  nextStates:
+  - {fileID: 11400000, guid: d6e9ede64e53e4aa8b242749c8522736, type: 2}
+  - {fileID: 11400000, guid: 208a1753af1f9482aa5575efcec608f3, type: 2}

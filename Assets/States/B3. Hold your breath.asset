@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: B3. Hold your breath
+  m_EditorClassIdentifier: 
+  storyText: "To prevent yourself being attacked by these killer Zombie wasps you
+    decide to duck under water but how long can you hold your breath ?\n\n1. 1 minute\n\n2.
+    5 minutes\n\n3. 20 minutes\n\nDon't try this at home\n       "
+  nextStates:
+  - {fileID: 11400000, guid: a924d7b6f9f2142959ae2c4fd92cf518, type: 2}
+  - {fileID: 11400000, guid: f1535bc4c5c3b4160b09d7c37032f6c2, type: 2}
+  - {fileID: 11400000, guid: ade6b4a79371b44b390caf499ca0d9fa, type: 2}

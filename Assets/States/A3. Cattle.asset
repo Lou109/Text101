@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A3. Cattle
+  m_EditorClassIdentifier: 
+  storyText: "You notice that there are cows in this field and three are heading
+    towards you. They certainly look a bit off colour and don't look particularly
+    friendly.\n\nYou need to act fast \n\n1. Climb over the barbed wire fence into
+    the next field.\n\nor\n\n2. When in range shoot them "
+  nextStates:
+  - {fileID: 11400000, guid: ab04813da12ab4a4a9ec64eb9b8f2d9f, type: 2}
+  - {fileID: 11400000, guid: c5b4fc2db0eba4b20853b030af1587d2, type: 2}

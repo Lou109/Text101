@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A8. Corn Field
+  m_EditorClassIdentifier: 
+  storyText: 'The crops in this corn field look dead. Like the rest of this wretched
+    place. You can see industrial buildings in the distance from here. So you head
+    in the north east direction towards the farm gate.
+
+
+    All of a sudden you
+    hear an engine noise getting louder and louder. You cant see what it is due to
+    the tall crops.
+
+
+    Decisions decisions ...
+
+
+    1. Jump up above the corn
+    to see what it is.
+
+
+    2. Run as fast as you can towards the farm.'
+  nextStates:
+  - {fileID: 11400000, guid: a334dc7f78b364ac399e38a98504f7d4, type: 2}
+  - {fileID: 11400000, guid: 189e810f3d565458b854a4bf36463c1b, type: 2}

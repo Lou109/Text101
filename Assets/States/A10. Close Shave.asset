@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A10. Close Shave
+  m_EditorClassIdentifier: 
+  storyText: 'Luckily you just manage to dodge the sharp blades of the deadly driven
+    machine. Farmer Ben doesn''t like trespassers on his land. You are lucky to be
+    alive.
+
+
+    Push down 1 to continue '
+  nextStates:
+  - {fileID: 11400000, guid: 189e810f3d565458b854a4bf36463c1b, type: 2}

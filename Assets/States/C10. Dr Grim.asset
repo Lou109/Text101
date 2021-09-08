@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C10. Dr Grim
+  m_EditorClassIdentifier: 
+  storyText: 'There is a trail of blood that leads to the back of the small building.
+    So you follow it to investigate. Suddenly out of nowhere you feel a cold breath
+    down the back of your neck. You turn around very quickly.  It''s a Zombie in
+    a laboratory uniform. It must be Dr Grim.
+
+
+    You must act quickly
+
+
+    1.
+    Shoot Dr Grim in the head
+
+
+    2. Move swiftly out of his way first before taking
+    a shot'
+  nextStates:
+  - {fileID: 11400000, guid: 61adfce9804ed42cb96e1160671f42d0, type: 2}
+  - {fileID: 11400000, guid: 61adfce9804ed42cb96e1160671f42d0, type: 2}

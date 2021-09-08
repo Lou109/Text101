@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A9. Combine Harvester
+  m_EditorClassIdentifier: 
+  storyText: "The engine noise is coming from a Zombie driven Combine Harvester.
+    Seems you have been spotted and intends to cut you up into tiny pieces.\n\nWhat
+    you going to do about it ?\n\n1. Run for your life \n\n2. Take a shot at the
+    Zombie farmer with your MKA"
+  nextStates:
+  - {fileID: 11400000, guid: c285b085ac4434ca5bc57bf9672f7677, type: 2}
+  - {fileID: 11400000, guid: 9d775e9905cc74206b295a6f48cf20c4, type: 2}

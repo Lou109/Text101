@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C2. Angry Dogs
+  m_EditorClassIdentifier: 
+  storyText: 'Two angry Zombie dogs have come to greet you. Or should i say eat you.
+
+
+    You
+    must act quickly or else you are dog food.
+
+
+    1. Take 2 rapid shots like Clint
+    Eastwood
+
+
+    2. Climb back over the gate and walk around the farm instead'
+  nextStates:
+  - {fileID: 11400000, guid: e2b1dcb2a82964bf98326f3022c61e41, type: 2}
+  - {fileID: 11400000, guid: 1faa1b5b26c8b47818d0918119260677, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: A4. A faint sound
+  m_EditorClassIdentifier: 
+  storyText: "This pathway is very narrow. Seems to be a lot of dead trees. There
+    is a very unpleasant smell of rotting flesh coming from the ground. \n\nYou can
+    hear a faint sound of dragging feet coming from around the corner.\n\nWhat are
+    you going to do now ?\n\n1. Hide behind the largest tree in hope you don't get
+    spotted by who or what ever it is.\n\n2. Make a hasty retreat across the fields"
+  nextStates:
+  - {fileID: 11400000, guid: 2001ead6c41e74a9f970cfc76558f7c1, type: 2}
+  - {fileID: 11400000, guid: 719cd51952b9246e5b5b35d970d0c6b1, type: 2}

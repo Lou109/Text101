@@ -10,11 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
-  m_Name: Public Footpath
+  m_Name: 5. Game Over
   m_EditorClassIdentifier: 
-  storyText: 'This footpath is very foggy i can hardly see
+  storyText: 'Unfortunately 1 minute was not long enough. You reach to the surface
+    gasping for breath as the Zombie wasps sting you to death with their deadly toxic
+    venom.
 
-'
+
+    Better luck next time
+
+
+    1 Start mission again
+
+
+    2 Quit'
   nextStates:
-  - {fileID: 11400000, guid: 11d75b60b1243424e8e65100a8e69c19, type: 2}
   - {fileID: 11400000, guid: f208ff537756f4cc6a2999f848415209, type: 2}

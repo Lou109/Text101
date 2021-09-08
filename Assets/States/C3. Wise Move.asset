@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C3. Wise Move
+  m_EditorClassIdentifier: 
+  storyText: 'Those Zombie farm dogs didn''t look friendly and neither does the Combine
+    Harvester. Farmer Ben intends to cut you up into tiny shreds.
+
+
+    You must
+    either
+
+
+    1. Take a shot at him. As now he is in range of fire
+
+
+    or
+
+
+    2.
+    Out run the machine and head towards the Bio Chemical Radio Active Facility.'
+  nextStates:
+  - {fileID: 11400000, guid: ab3ded8b650154508b00661c07ec4227, type: 2}
+  - {fileID: 11400000, guid: f60feab65900f47a5b5c66d2478b74d6, type: 2}

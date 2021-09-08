@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C14. Mission Accomplished
+  m_EditorClassIdentifier: 
+  storyText: "Congratulation ! You chose the right switch. Thanks to your heroic
+    bravery there will be no further contamination. \n\nYou have been promoted !
+    with a medal of honour.\n\n1. Play again\n\n2. Quit"
+  nextStates:
+  - {fileID: 11400000, guid: f208ff537756f4cc6a2999f848415209, type: 2}

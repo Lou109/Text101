@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C12. The Laboratory
+  m_EditorClassIdentifier: 
+  storyText: "With a clear shot you manage to decapitate the Zombie of Dr Grim. His
+    gruesome corpse abruptly falls to the ground. \nYou successfully manage to find
+    a key in his left pocket and open the door to the laboratory.\n\nThere are lots
+    of smashed test tubes and the like scattered all over the floor. Hard to see
+    clearly due to condensation on your protective goggles. Seems to be a lots of
+    harmful chemicals in here.\nThere are two large switches to what looks like some
+    kind of machine. Hopefully the right switch will put a stop to anymore harmful
+    contamination.\n\nPress 1 to continue "
+  nextStates:
+  - {fileID: 11400000, guid: 6070a5d2ecaf545968e1be995b08f4b7, type: 2}

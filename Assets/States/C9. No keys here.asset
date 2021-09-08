@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
+  m_Name: C9. No keys here
+  m_EditorClassIdentifier: 
+  storyText: '"You can search me all day. There are no keys here ! " he yells in
+    a disgruntled tone.
+
+    The man is right he does not have the keys. He gasps
+    his last breath then dies right in front of you"
+
+
+    Now you must either ...
+
+
+    1.
+    Attempt to revive him
+
+
+    2. Search the warehouse for clues '
+  nextStates:
+  - {fileID: 11400000, guid: 8474842ae9e994fa0bc20f91ac3c97c9, type: 2}
+  - {fileID: 11400000, guid: 390b2e832d7f7449c95f42fe609bfd75, type: 2}
