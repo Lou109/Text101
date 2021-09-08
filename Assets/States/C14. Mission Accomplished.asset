@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
   m_Name: C14. Mission Accomplished
   m_EditorClassIdentifier: 
-  storyText: "Congratulation ! You chose the right switch. Thanks to your heroic
+  storyText: "Congratulations ! You chose the right switch. Thanks to your heroic
     bravery there will be no further contamination. \n\nYou have been promoted !
     with a medal of honour.\n\n1. Play again\n\n2. Quit"
   nextStates:
