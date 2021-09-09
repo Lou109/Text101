@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec5b8b0e11edc46678ab60c1a5200c12, type: 3}
   m_Name: A0. Introduction
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to Zombie Zone.
+  storyText: 'Welcome to Zombie Zone
 
 
     This game is not for the faint hearted
@@ -20,9 +20,13 @@ MonoBehaviour:
 
 
     At each stage you will be asked to push a key on the keyboard.
-    For example 1, 2 or 3.
+    For example 1, 2 or 3
 
 
-    Push "1" to continue'
+    Push "1" to continue
+
+
+    Music and game design
+    by Louise Collins'
   nextStates:
   - {fileID: 11400000, guid: f208ff537756f4cc6a2999f848415209, type: 2}
